@@ -1,2 +1,2 @@
 # R Software for creating maps of abundances of ticks across the territory of the Czech Republic
-This a result of a project funded by the Ministry of Health of the Czech Republic (grant no. AZV 16-33934A)
+This a result of a project funded by the Ministry of Health of the Czech Republic (grant no. AZV 16-33934A). Here you can find programming code for (maps.R) creating maps of tick abundances. Data are in data.txt. Map shapefiles are in cr.zip, okresy.zip and toky.zip. Large cities are in mesta.txt. Zip files need to be extracted to your folder for maps, e.g. C://maps.
